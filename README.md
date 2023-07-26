@@ -4,18 +4,28 @@ The Employee tracker is a sql database that has a variety of features to view, a
 ## Table of Contents
 
 - [Installation](#installation)
+- [Usage](#usage)
+- [Preview](#preview)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
 
-To install and run the Note Taker application locally, follow these steps:
+To install and run the Employee Tracker application locally, follow these steps:
 
-1. Clone the repository to your local machine.  
-2. Open a terminal and navigate to the project's root directory.  
-3. Run npm install to install the required dependencies.  
-4. Start the application by running node server.js.  
-5.  Access the application in your web browser at http://localhost:3000.
+1. Clone the repository: get clone <repository_url>
+2. Navigate to the project directory: cd employee-tracker
+3. Install the dependencies: npm install
+
+## Usage
+
+1. Open a terminal.
+2. Navigate to the project directory.
+3. Run the application: node server.js
+4. Follow the prompts to perform various actions, such as view database, add, update and delete.
+
+## Preview
+
 
 ## Contributing
 

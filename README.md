@@ -26,6 +26,7 @@ To install and run the Employee Tracker application locally, follow these steps:
 
 ## Preview
 
+![Video](https://github.com/KevinBelknap/Note-App/assets/128446838/e34ea70f-fa72-41e9-aff9-61247b745a8c)
 
 ## Contributing
 

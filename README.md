@@ -1,11 +1,6 @@
 # Employee-Tracker
 The Employee tracker is a sql database that has a variety of features to view, add, update and much more to the database.
 
-### Generated Logo
-
-![Note Taker](https://github.com/KevinBelknap/Note-App/assets/128446838/e34ea70f-fa72-41e9-aff9-61247b745a8c)
-
-
 ## Table of Contents
 
 - [Installation](#installation)
